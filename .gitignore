@@ -1,0 +1,16 @@
+# Python virtual environments
+.venv/
+
+# Environment variable files
+.env
+.env.*
+.env-*
+
+# Node.js dependencies and lock files
+package.json
+package-lock.json
+
+# Test and report outputs
+log.html
+output.xml
+report.html
